@@ -1,5 +1,5 @@
 # FrontEnd
-Actividades realizadas para FrontEnd
+Actividades realizadas para FrontEnd Semana 1 - DESPEGUE
 
 * [Documento de los Requerimientos](https://github.com/Ma-Daniela30/FrontEnd/blob/main/Semana1-Despegue/1-Requerimientos.pdf) - 1.- Requerimientos de abogabot
 * [Plantilla del Buyer Personal](https://github.com/Ma-Daniela30/FrontEnd/blob/main/Semana1-Despegue/2-BuyerPersonal.pdf) [Ejemplo del Buyer Personal](https://github.com/Ma-Daniela30/FrontEnd/blob/main/Semana1-Despegue/2-BuyerPersonal_ejemplo.pdf) - 2.- Buyer Personal
